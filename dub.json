@@ -1,0 +1,7 @@
+{
+	"name": "simap",
+	"description": "Library for simplifying immutable int->string maps",
+	"copyright": "Copyright © 2018, Cameron",
+	"license": "BSL-1.0",
+	"authors": ["Cameron"]
+}
